@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Anydore';
   src: url("/CodeFirstGirls--/anydore.woff") format("woff");
-  src: url("/CodeFirstGirls--/anydore2.woff") format("woff");
+  src: url("/CodeFirstGirls--/anydore.woff2") format("woff2");
 }
 body{
   margin:0;
