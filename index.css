@@ -1,3 +1,4 @@
+/* CAUTION ! DO NOT touch the @font-face style, custom fonts are witchcraft with a mind of their own. This line of code is cursed and will bring great sorrow to you, great sorrow to your family, great sorrow to your cow.*/
 @font-face {
   font-family: 'Anydore';
   src: url("/CodeFirstGirls--/Anydore.otf") format("opentype");
