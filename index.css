@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Anydore';
-  src: url(/"Anydore.otf") format("opentype");
+  src: url(../CodeFirstGirls--/"Anydore.otf") format("opentype");
 }
 body{
   margin:0;
