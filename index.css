@@ -1,4 +1,44 @@
-h1{text-align: center; color: white; height:50%}
-@font-face{
-  font-family:Anydore;
-  src:/Anydore.otf/}
+@font-face {
+  font-family: 'Anydore';
+  src: url("Anydore.otf") format("opentype");
+}
+body{
+  margin:0;
+}
+#universe {
+    background: url("https://media.giphy.com/media/ZzyOiywrAjnXi/giphy.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    }
+#forests {
+    background: url("https://media.giphy.com/media/1lRrsraIsEYRW/giphy.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    }
+#oceans {
+    background: url("https://68.media.tumblr.com/bf39473906044f3438548b5eca6846b9/tumblr_njzuh8m1kE1sj3y3jo1_500.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    }
+#animals {
+    background: url("https://media.tenor.com/images/846b0751960ee3af546c271eb6c032a0/tenor.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+        }
+a{
+  font-family: "Anydore";
+  font-size: 140px;
+  color: white;
+  }
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+  color:pink;
+}
