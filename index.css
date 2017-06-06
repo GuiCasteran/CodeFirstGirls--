@@ -6,8 +6,9 @@
 body{
   margin:0;
 }
-div.links{ width: 80%; height:100%;}
+div.pics{ width: 80%; height:100%;}
 div.menu{width:20%; height:100%;}
+
 #universe {
     background: url("https://media.giphy.com/media/ZzyOiywrAjnXi/giphy.gif");
     background-size: 100% 100%;
