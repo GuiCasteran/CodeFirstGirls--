@@ -6,8 +6,6 @@
 body{
   margin:0;
 }
-div.pics{ width: 80%; height:100%;}
-div.menu{width:20%; height:100%;}
 
 #universe {
     background: url("https://media.giphy.com/media/ZzyOiywrAjnXi/giphy.gif");
@@ -48,7 +46,7 @@ div.menu{width:20%; height:100%;}
         }
 a{
   font-family: "Anydore";
-  font-size: 140px;
+  font-size: 100px;
   }
 a:link, a:visited {
     color:  white;
@@ -56,4 +54,36 @@ a:link, a:visited {
 }
 a:hover, a:active {
   color:pink;
+}
+
+#content-body {background: url("https://68.media.tumblr.com/fc372c50e71f2cfd57a81782d2b9ccef/tumblr_nl4rbyWy651qczawho1_500.gif");
+background-size: cover;
+height: 100vh;
+background-repeat: no-repeat;
+background-position: center;
+text-align: center;
+}
+#menu-items{
+  font-size: 50px;
+  padding: 30px 30px 30px 30px;
+  background-color: grey;
+  background-size: 100% 100%;
+  opacity:0.8;
+}
+#menu-list{
+  text-align: center;
+  padding:90px
+}
+#text-content{
+  font-family:helvetica;
+  font-size: 120px;
+  color: black;
+  padding-top:15%;
+  opacity:0.7;
+  font-family: anydore;
+}
+h3{
+  font-family: serif;
+  font-style: italic;
+  font-weight: bold;
 }
