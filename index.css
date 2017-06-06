@@ -1,0 +1,58 @@
+/* CAUTION ! DO NOT touch the @font-face style, custom fonts are witchcraft with a mind of their own. This line of code is cursed and will bring great sorrow to you, great sorrow to your family, great sorrow to your cow.*/
+@font-face {
+  font-family: 'Anydore';
+  src: url("Anydore.otf") format("opentype");
+}
+body{
+  margin:0;
+}
+div.links{ width: 80%; height:100%;}
+div.menu{width:20%; height:100%;}
+#universe {
+    background: url("https://media.giphy.com/media/ZzyOiywrAjnXi/giphy.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 100px;
+    }
+#forests {
+    background: url("https://media.giphy.com/media/1lRrsraIsEYRW/giphy.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 100px;
+    }
+#oceans {
+    background: url("https://68.media.tumblr.com/bf39473906044f3438548b5eca6846b9/tumblr_njzuh8m1kE1sj3y3jo1_500.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding:100px;
+    }
+#climate {
+    background: url("https://img.buzzfeed.com/buzzfeed-static/static/2014-01/enhanced/webdr05/22/12/anigif_enhanced-buzz-30430-1390413199-8.gif");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    text-align: center;
+    padding: 100px;
+        }
+#animals {
+    background: url("http://i.imgur.com/eelBo.gif");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    padding: 100px;
+        }
+a{
+  font-family: "Anydore";
+  font-size: 140px;
+  }
+a:link, a:visited {
+    color:  white;
+    text-decoration: none;
+}
+a:hover, a:active {
+  color:pink;
+}
